@@ -1,6 +1,6 @@
 Dependencies
 ------------
-Before using please install sqlite3 and graphviz.
+Before use please install sqlite3 and graphviz.
 
 	apt-get install sqlite3 graphviz
 
