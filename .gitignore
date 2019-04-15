@@ -1,1 +1,26 @@
-routermesh.db
+# Ignored directories
+*.idea
+
+.DS_Store
+
+/venv
+venv/
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
+
+development
+
+practice/.gitignore
+node_modules/
+package-lock.json
